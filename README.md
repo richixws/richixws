@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working as a Back End Developer<br>I’m currently learning Java Spring Microservices<br>I’m looking to collaborate with other content creators<br>Contribute more to open source Projects<br>Ask me about any Questions Related to Full Stack end Technology
+I’m currently working as a Full Stack Developer<br>I’m currently learning Java Spring Microservices, React, Angular<br>I’m looking to collaborate with other content creators<br>Contribute more to open source Projects<br>Ask me about any Questions Related to Full Stack end Technology
 
 
 ## 🌐 Socials:
